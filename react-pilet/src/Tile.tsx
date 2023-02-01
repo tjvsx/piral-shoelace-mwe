@@ -11,7 +11,7 @@ function Tile({updateGreeting}: TileProps) {
   return ( 
     <div>
       <h3>Greet yourself everytime you arrive here</h3>
-      <div className="flex justify-center items-center gap-2 react-tile">
+      <div className="flex justify-center items-center gap-2 custom-tile">
         {/* <input type="text" placeholder="Enter a greeting" />
         <button onClick={
           () => {

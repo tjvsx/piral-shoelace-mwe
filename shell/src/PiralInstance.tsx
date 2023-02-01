@@ -1,4 +1,4 @@
-import { SlCard, SlIconButton } from '@shoelace-style/shoelace/dist/react';
+import { SlCard, SlIconButton } from './lib/design/shoelace';
 import {
   ComponentsState,
   ErrorComponentsState,

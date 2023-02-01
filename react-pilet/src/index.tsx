@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { PiletApi } from 'app-shell';
 import Tile from './Tile';
-import './main.css'
+import './styles/main.css'
 
 export function setup(app: PiletApi) {
 
